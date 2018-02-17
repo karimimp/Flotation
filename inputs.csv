@@ -1,5 +1,11 @@
-particle diameter, 10e-6,32.5e-6,55e-6,77.5e-6,100e-6
-bubble diameter, 0.05e-2,0.06e-2,0.08e-2,0.09e-2,0.1e-2
-bubble velocity, 10e-2,15e-2,20e-2,25e-2,30e-2
-fluid density, 998.2
-fluid dynamic viscosity, 0.001
+particle diameter, 10e-4
+bubble diameter, 0.05
+bubble velocity, 20
+fluid density, 0.9982
+gas density, 0.001225
+particle density, 1.3
+fluid kinematic viscosity, 0.008937
+contact angle, 1.3963
+gravity acceleration, 981.0
+surface tension, 72.0
+turbulent dissipation rate, 20
