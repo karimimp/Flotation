@@ -1,5 +1,5 @@
-particle diameter, 77.5e-6, 1, 2.2
-bubble diameter, 0.08e-2
-bubble velocity, 25e-2
+particle diameter, 10e-6,32.5e-6,55e-6,77.5e-6,100e-6
+bubble diameter, 0.05e-2,0.06e-2,0.08e-2,0.09e-2,0.1e-2
+bubble velocity, 10e-2,15e-2,20e-2,25e-2,30e-2
 fluid density, 998.2
 fluid dynamic viscosity, 0.001
