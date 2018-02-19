@@ -21,7 +21,7 @@ E_collection = Ec*Ea*Es;
 fprintf('dp = %f, db = %f, ub = %f, Reb = %f, Ec = %e\n', dp,db,ub,Re_b,Ec);
 fprintf('dp = %f, db = %f, ub = %f, Reb = %f, Ea = %e\n', dp,db,ub,Re_b,Ea);
 fprintf('dp = %f, db = %f, ub = %f, Reb = %f, Es = %e\n', dp,db,ub,Re_b,Es);
-fprintf('Collection Efficiency = %f\n',E_collection);
+fprintf('Collection Efficiency = %e\n',E_collection);
 
 fprintf('\nElapsed Time: %6.4f s\n',toc);
 end % end of collectionEfficiencyIntermediate
