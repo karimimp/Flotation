@@ -1,11 +1,11 @@
-particle diameter, 77.5e-4
-bubble diameter, 0.09
-bubble velocity, 15
+particle diameter, 0.91e-4
+bubble diameter, 0.12
+bubble velocity, 18
 fluid density, 0.9982
 gas density, 0.001225
-particle density, 3.4
+particle density, 2.65
 fluid kinematic viscosity, 0.008937
-contact angle, 0.8151
+contact angle, 1.3963
 gravity acceleration, 981.0
 surface tension, 72.0
 turbulent dissipation rate, 20
